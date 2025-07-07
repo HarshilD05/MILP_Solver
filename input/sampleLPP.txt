@@ -1,0 +1,17 @@
+Max
+3x + 4y - z
+
+x + 2y <= 10
+3x - y >= 5
+x + y + z = 7
+
+Bounds:
+x >= 0
+y <= 10
+z free
+
+Integer:
+x, y
+
+Binary:
+z
